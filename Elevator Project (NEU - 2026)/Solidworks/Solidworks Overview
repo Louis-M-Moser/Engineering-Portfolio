@@ -1,0 +1,26 @@
+# SolidWorks – 3D Printed Winding Mechanism
+
+## Overview
+This folder contains SolidWorks parts and assemblies for the winding mechanism of our elevator building model. All components were designed in SolidWorks and fabricated via 3D printing.
+
+## What We Built
+The **winding mechanism** that drives the elevator car up and down the building shaft. This includes the spool, housing, and any structural brackets needed to mount the system to the building frame.
+
+## Why SolidWorks
+SolidWorks enabled us to model complex 3D geometry with precise fits and tolerances, which was critical for a functional mechanism with moving parts. The parametric design tools allowed us to iterate quickly and ensure all printed components assembled correctly.
+
+## File Formats
+| File | Description |
+|------|-------------|
+| `.SLDPRT` | Native SolidWorks part files |
+| `.SLDASM` | Native SolidWorks assembly file |
+| `.STL` | Export format used for 3D printing (renders in GitHub) |
+| `.STEP` | Universal CAD format for interoperability |
+
+## Tools & Process
+- **Software:** SolidWorks
+- **Fabrication method:** 3D printing (FDM)
+- **Workflow:** 3D modeling → STL export → Slicing → 3D print
+
+---
+*Part of the Elevator Building Project*
