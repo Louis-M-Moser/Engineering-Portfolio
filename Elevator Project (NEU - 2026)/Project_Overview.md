@@ -1,6 +1,6 @@
 # 🛗 Elevator Occupancy Detection System
 
-A Raspberry Pi-based embedded system that uses computer vision and a stepper motor to autonomously detect the number of people inside a model elevator cab. Built using a Raspberry Pi 5, Pi Camera Module 3, a 28BYJ-48 stepper motor, and a YOLO-based AI detection model.
+A Raspberry Pi-based embedded system that uses computer vision and a stepper motor to autonomously detect the number of people inside a model elevator cab. Built using a Raspberry Pi 4, Pi Camera Module 3, a 28BYJ-48 stepper motor, and a YOLO-based AI detection model.
 
 ---
 
