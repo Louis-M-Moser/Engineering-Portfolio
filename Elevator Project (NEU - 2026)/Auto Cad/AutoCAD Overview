@@ -1,0 +1,26 @@
+# AutoCAD – Laser Cut Building Structure
+
+## Overview
+This folder contains AutoCAD drawings developed for the fabrication of our elevator building model. All 2D profiles were designed in AutoCAD and sent directly to a laser cutter for precise fabrication.
+
+## What We Built
+The structural components of the building — including floor plates, wall panels, and support frames — were laser cut from **plywood** and **cardboard** using the AutoCAD drawings in this repository.
+
+## Why AutoCAD
+AutoCAD allowed us to draft every panel and joint with high dimensional accuracy, ensuring tight tolerances when the laser-cut pieces were assembled. The clean DXF export workflow made the transition from design to fabrication seamless.
+
+## File Formats
+| File | Description |
+|------|-------------|
+| `.DWG` | Native AutoCAD source files |
+| `.DXF` | Export format used for laser cutter input |
+| `.PDF` | Technical drawing sheets for reference |
+
+## Tools & Process
+- **Software:** AutoCAD
+- **Fabrication method:** Laser cutting
+- **Materials:** Plywood, Cardboard
+- **Workflow:** 2D drafting → DXF export → Laser cutter
+
+---
+*Part of the Elevator Building Project*
